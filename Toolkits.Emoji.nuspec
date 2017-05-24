@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Toolkits.Emoji</id>
+    <version>0.1.2</version>
+    <title>Toolkits.Emoji</title>
+    <authors>wangan</authors>
+    <owners>wangan</owners>
+    <projectUrl>https://github.com/wangan/Toolkits.Emoji</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Emoji (IOS or macOS) support</description>
+    <copyright>Copyright 2017</copyright>
+    <tags>Toolkits</tags>
+
+    <dependencies>
+      <dependency id="Toolkits" version="0.1.0" />
+      <dependency id="Toolkits.Log" version="0.1.0" />
+    </dependencies>
+  </metadata>
+</package>

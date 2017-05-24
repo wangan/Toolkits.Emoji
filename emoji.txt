@@ -1,0 +1,20 @@
+/* 1. Emoticons ( 1F600-1F64F ) */
+/* 2. Dingbats ( 2700-27BF ) */
+/* 3. Transport and map symbols (1F680-1F6FF ) */
+/* 4. Enclosed characters ( 2460-24FF) + (1F100-1F1FF) + (1F200-1F2FF)*/
+/* 5. Uncategorized 
+        (0080-00FF) Latin-1 Supplement
+        (2000-206F) General Punctuation
+        (0000-007F) Basic Latin 
+        (20D0-20FF) Combining Diacritical Marks for Symbols
+        (2100-214F) Letterlike Symbols
+        (2190-21FF) Arrows
+        (2300-23FF) Miscellaneous Technical
+        (25A0-25FF) Geometric Shapes
+        (2600-26FF) Miscellaneous Symbols
+        (2900-297F) Supplemental Arrows-B
+        (2B00-2BFF) Miscellaneous Symbols and Arrows
+        (3000-303F) CJK Symbols and Punctuation
+        (3200-32FF) Enclosed CJK Letters and Months
+        (1F000-1F02F) Mahjong Tiles
+        (1F300-1F5FF) Miscellaneous Symbols and Pictographs */
